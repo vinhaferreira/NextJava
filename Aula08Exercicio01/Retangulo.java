@@ -1,4 +1,4 @@
-package Aula08;
+package Aula08Exercicio01;
 
 public class Retangulo extends Quadrilatero{
 	private float altura;
@@ -17,16 +17,16 @@ public class Retangulo extends Quadrilatero{
 	}
 	@Override
 	public float calculaArea() {
-		// TODO Auto-generated method stub
-		return 0;
+		float area = this.lado*this.altura;
+		return area;
 	}
 	@Override
 	public float calculaPerimetro() {
-		// TODO Auto-generated method stub
-		return 0;
+		float perimetro = (2*this.lado)+(2*this.altura);
+		return perimetro;
 	}
 }
 
-@override
+
 
 
