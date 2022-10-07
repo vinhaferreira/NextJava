@@ -1,4 +1,4 @@
-package aula05;
+package Aula05;
 
 	public class Dependente {
 		private String nome;

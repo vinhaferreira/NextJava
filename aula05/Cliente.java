@@ -1,4 +1,4 @@
-package aula05;
+package Aula05;
 
 public class Cliente {
 	private String nome;

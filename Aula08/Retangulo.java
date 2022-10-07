@@ -15,4 +15,18 @@ public class Retangulo extends Quadrilatero{
 	public void setLado(float lado) {
 		this.lado = lado;
 	}
+	@Override
+	public float calculaArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public float calculaPerimetro() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
+
+@override
+
+

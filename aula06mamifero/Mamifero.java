@@ -1,4 +1,4 @@
-package aula06mamifero;
+package Aula06Mamifero;
 
 import Aula06Animais.Animal;
 

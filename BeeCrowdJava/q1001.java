@@ -1,4 +1,4 @@
-package Revisao;
+package BeeCrowdJava;
 
 import java.io.IOException;
 import java.util.Scanner;

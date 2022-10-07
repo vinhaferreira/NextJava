@@ -1,6 +1,6 @@
 package Aula06Animais;
 
-import aula06mamifero.Homem;
+import Aula06Mamifero.Homem;
 
 public class ProgramaHierarquia {
 	public static void main(String[] args) {

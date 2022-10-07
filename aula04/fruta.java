@@ -1,4 +1,4 @@
-package aula04;
+package Aula04;
 
 public class fruta {
 
@@ -33,6 +33,6 @@ public class fruta {
 		}
 	}
 
-	}
+
 
 }

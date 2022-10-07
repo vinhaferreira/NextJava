@@ -1,4 +1,4 @@
-package aula06mamifero;
+package Aula06Mamifero;
 
 public class Homem extends Mamifero {
 	public void pensar() {
